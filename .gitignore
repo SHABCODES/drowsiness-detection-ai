@@ -1,0 +1,9 @@
+venv/
+__pycache__/
+*.pyc
+data/
+*.pth
+*.onnx
+*.bz2
+shape_predictor_68_face_landmarks.dat
+training_history.png

@@ -1,0 +1,13 @@
+2026-05-04 17:51:37,050 - ADAS_SERVICE - INFO - Initializing ADAS Production Instance...
+2026-05-04 17:51:37,055 - ADAS_SERVICE - INFO - Targeting hardware: cpu
+2026-05-04 17:51:37,223 - ADAS_SERVICE - INFO - Deployed model version from best_model.pth
+2026-05-04 17:51:40,007 - ADAS_SERVICE - INFO - Starting Video Processing Pipeline...
+2026-05-04 17:51:47,900 - ADAS_SERVICE - CRITICAL - Driver Alert Telemetry saved to telemetry\CRITICAL_EVENT_1777897307.mp4
+2026-05-04 17:52:02,997 - ADAS_SERVICE - CRITICAL - Driver Alert Telemetry saved to telemetry\CRITICAL_EVENT_1777897322.mp4
+2026-05-04 17:52:10,972 - ADAS_SERVICE - CRITICAL - Driver Alert Telemetry saved to telemetry\CRITICAL_EVENT_1777897330.mp4
+2026-05-04 17:52:14,122 - ADAS_SERVICE - CRITICAL - Driver Alert Telemetry saved to telemetry\CRITICAL_EVENT_1777897333.mp4
+2026-05-04 17:52:29,502 - ADAS_SERVICE - CRITICAL - Driver Alert Telemetry saved to telemetry\CRITICAL_EVENT_1777897349.mp4
+2026-05-04 17:52:36,110 - ADAS_SERVICE - CRITICAL - Driver Alert Telemetry saved to telemetry\CRITICAL_EVENT_1777897355.mp4
+2026-05-04 17:53:18,123 - ADAS_SERVICE - CRITICAL - Driver Alert Telemetry saved to telemetry\CRITICAL_EVENT_1777897397.mp4
+2026-05-04 17:53:21,233 - ADAS_SERVICE - CRITICAL - Driver Alert Telemetry saved to telemetry\CRITICAL_EVENT_1777897401.mp4
+2026-05-04 17:53:27,963 - ADAS_SERVICE - INFO - Pipeline closed. Average Throughput: 11.42 FPS

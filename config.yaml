@@ -1,0 +1,24 @@
+# Drowsiness Detection System Production Config
+
+system:
+  device: "auto" # "cpu", "cuda", or "auto"
+  log_level: "INFO"
+  save_logs: true
+
+detection:
+  ear_threshold: 0.25
+  mar_threshold: 0.6
+  consecutive_frames: 20
+  
+video:
+  camera_index: 0
+  resolution: [640, 480]
+  show_landmarks: false
+  professional_ui: true
+
+alerts:
+  enable_sound: true
+  enable_tts: true
+  alert_sound_path: "alert.wav"
+  voice_gender: "female"
+  voice_rate: 150
