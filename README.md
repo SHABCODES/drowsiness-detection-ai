@@ -1,4 +1,4 @@
-# Driver Fatigue & Safety Monitor AI 🚗💨
+# Driver Fatigue & Safety Monitor AI 
 
 A production-grade, real-time safety system that monitors driver behavior using Computer Vision and Deep Learning. This project detects drowsiness and fatigue levels to prevent accidents.
 
